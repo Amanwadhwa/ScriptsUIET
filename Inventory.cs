@@ -16,7 +16,7 @@ public class Inventory : MonoBehaviour {
 		}
 	}
 
-	class MeleeWeapon{
+	public class MeleeWeapon{
 		public bool knief = true;
 		public bool hammer = false; 
 		public bool baseballBat = false; 
